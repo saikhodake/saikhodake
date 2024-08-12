@@ -87,7 +87,7 @@ class Calculator extends WindowAdapter implements ActionListener
     }
 }   // End of calculator class
 
-class MarvellousCaculator
+class MarvellousCalculator
 {
     public static void main(String Arg[])
     {
